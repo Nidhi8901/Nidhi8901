@@ -1,282 +1,295 @@
-# 👋 Hi, I'm Nidhi Kumari
+<div align="center">
 
-### 🚀 DevOps Intern | Cloud & DevSecOps Enthusiast
+# 👋 Hello World!
 
-I’m a **DevOps-focused engineer** building hands-on experience in **Cloud, CI/CD, containerization, Kubernetes, automation, and DevSecOps**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=I'm+Nidhi+Kumari+%F0%9F%91%8B;DevOps+Intern+%7C+Cloud+%26+DevSecOps+%F0%9F%9A%80;I+Build+%7C+Automate+%7C+Deploy+%7C+Secure+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
-I enjoy turning applications into automated, secure, and scalable deployment workflows using modern DevOps tools and AWS services.
+### **NIDHI KUMARI**
+
+**DevOps Intern | Cloud & DevSecOps**
+
+<p>
+  <a href="https://www.linkedin.com/in/nidhi-kumari-clouddevops">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://nidhikumari-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Nidhi8901">
+    <img src="https://img.shields.io/badge/GitHub-Nidhi8901-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### **CODE. AUTOMATE. DEPLOY. SECURE.**
+
+</div>
 
 ---
 
-## 💫 About Me
+# 🚀 About Me
 
-* 🔭 Currently working as a **DevOps Intern**
-* ☁️ Building hands-on projects with **AWS Cloud**
-* 🔄 Interested in **CI/CD, automation and DevSecOps**
-* 🐳 Working with **Docker & containerized applications**
-* ☸️ Learning and working with **Kubernetes**
-* 🔐 Exploring container and code security with **Trivy & SonarQube**
-* 📊 Learning **Prometheus & Grafana** for monitoring
-* 🏗️ Building infrastructure using **Terraform**
-* 🐧 Comfortable working with **Linux**
-* 💻 Using **Git & GitHub** for source-code management
-* 🌱 Continuously learning and improving my DevOps skills
+I'm **Nidhi Kumari**, currently working as a **DevOps Intern** and building hands-on experience across **Cloud, CI/CD, Containers, Kubernetes and DevSecOps**.
+
+I enjoy working on practical projects where I can automate application delivery, containerize workloads, improve deployment workflows and integrate security into CI/CD pipelines.
+
+### 💡 My current focus
+
+* ☁️ **AWS Cloud & Infrastructure**
+* 🔄 **CI/CD Automation**
+* 🐳 **Docker & Containerization**
+* ☸️ **Kubernetes**
+* 🔐 **DevSecOps**
+* 🏗️ **Infrastructure as Code with Terraform**
+* 📊 **Monitoring with Prometheus & Grafana**
+* 🐧 **Linux & Automation**
+* 🌐 **Git & GitHub**
 
 ---
 
 # 🛠️ Tech Stack
 
+<div align="center">
+
 ### ☁️ Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws" height="50"/>
 
 ### 🔄 DevOps & CI/CD
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes" height="50"/>
 
-### 🐳 Containers & Orchestration
+### 🏗️ Infrastructure & Automation
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=terraform,ansible,linux,bash,python" height="50"/>
 
 ### 🔐 DevSecOps
 
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge\&logo=aqua\&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=sonarqube" height="50"/>
 
-### 🏗️ Infrastructure as Code
+</div>
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-
-### 🐧 Operating System & Scripting
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### 📊 Monitoring
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/Trivy-Container%20Security-1904DA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-2EA44F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DevSecOps-Security%20in%20CI%2FCD-8B5CF6?style=for-the-badge" />
+</p>
 
 ---
 
-# 🚀 Featured DevOps Projects
+# 🔥 Featured Projects
 
 ## 🎌 AnimeVerse — AWS DevSecOps CI/CD
 
-An end-to-end **DevSecOps CI/CD project** for a containerized Flask application deployed on AWS.
+An end-to-end DevSecOps project for a **containerized Flask application deployed on AWS**.
 
-**Workflow:**
+### Pipeline
 
-`GitHub → Jenkins → Pytest → SonarQube → Docker → Trivy → Amazon ECR → ECS Fargate → ALB`
+```text
+GitHub
+   ↓
+Jenkins
+   ↓
+Pytest
+   ↓
+SonarQube
+   ↓
+Docker
+   ↓
+Trivy
+   ↓
+Amazon ECR
+   ↓
+ECS Fargate
+   ↓
+Application Load Balancer
+   ↓
+AnimeVerse
+   ↓
+CloudWatch
+```
 
-### Technologies
+### 🔧 Technologies
 
-* Python + Flask
-* Jenkins
-* Pytest
-* SonarQube
-* Docker
-* Trivy
-* Amazon ECR
-* Amazon ECS Fargate
-* Application Load Balancer
-* CloudWatch
-* AWS IAM
+`Python` `Flask` `Jenkins` `Pytest` `SonarQube` `Docker` `Trivy` `Amazon ECR` `ECS Fargate` `ALB` `CloudWatch` `IAM`
 
-🔗 **[View Project →](https://github.com/Nidhi8901/ANIMEVERSE-DevSecOps)**
+🔗 **[View AnimeVerse Project](https://github.com/Nidhi8901/ANIMEVERSE-DevSecOps)**
 
 ---
 
 ## 🔐 Web-Based Password Manager — DevSecOps
 
-A containerized web-based password manager with security-focused development and deployment practices.
+A Flask-based web application focused on secure application development, containerization and DevSecOps practices.
 
-### Technologies
+### 🔧 Technologies
 
-* Python
-* Flask
-* Docker
-* Jenkins
-* GitHub
-* Trivy
-* Encryption
-* Linux
+`Python` `Flask` `Docker` `Jenkins` `GitHub` `Trivy` `Fernet Encryption` `Linux`
 
-🔗 **[View Project →](https://github.com/Nidhi8901/web-based-password-manager)**
+🔗 **[View Password Manager Project](https://github.com/Nidhi8901/web-based-password-manager)**
 
 ---
 
 ## ☁️ AWS 3-Tier Scalable & Secure Infrastructure
 
-Designed a scalable AWS architecture using multiple AWS services for application delivery, networking, security and database infrastructure.
+A hands-on AWS infrastructure project covering networking, load balancing, scalability, database infrastructure and content delivery.
 
-### Technologies
+### 🔧 AWS Services
 
-* Amazon EC2
-* VPC
-* Subnets
-* Internet Gateway
-* NAT Gateway
-* Application Load Balancer
-* Auto Scaling
-* RDS
-* CloudFront
-* IAM
-* Security Groups
+`EC2` `VPC` `Subnets` `IGW` `NAT` `ALB` `Auto Scaling` `RDS` `CloudFront` `IAM` `Security Groups`
 
-🔗 **[View Project →](https://github.com/Nidhi8901)**
+🔗 **[Explore My GitHub Projects](https://github.com/Nidhi8901)**
 
 ---
 
-## ☸️ Kubernetes Microservices Deployment
+## ☸️ Kubernetes Microservices
 
-Hands-on Kubernetes project focused on deploying containerized microservices and configuring Kubernetes resources.
+Hands-on containerized microservices deployment using Kubernetes with application health checks and Kubernetes resource configuration.
 
-### Technologies
+### 🔧 Technologies
 
-* Docker
-* Kubernetes
-* Deployments
-* Services
-* Pods
-* Health Checks
-* HPA
-* PDB
-* RBAC
-* Prometheus
-* Grafana
+`Docker` `Kubernetes` `Deployments` `Services` `HPA` `PDB` `RBAC` `Prometheus` `Grafana`
 
-🔗 **[View More Projects →](https://github.com/Nidhi8901)**
+🔗 **[Explore Repository](https://github.com/Nidhi8901)**
 
 ---
 
-## 📊 DevOps Monitoring — Prometheus & Grafana
+## 📊 DevOps Monitoring
 
-Hands-on monitoring setup using Prometheus and Grafana to collect and visualize system metrics.
+Hands-on monitoring environment using **Prometheus, Grafana and Node Exporter** for Linux/system metrics visualization.
 
-### Technologies
+### 🔧 Technologies
 
-* Prometheus
-* Grafana
-* Node Exporter
-* Linux
-* Docker
+`Prometheus` `Grafana` `Node Exporter` `Linux` `Docker`
 
-🔗 **[View More Projects →](https://github.com/Nidhi8901)**
+🔗 **[Explore My GitHub](https://github.com/Nidhi8901)**
 
 ---
 
-# ☁️ AWS & DevOps Focus
+# ☁️ AWS Services I've Worked With
+
+<div align="center">
+
+`EC2` • `VPC` • `IAM` • `ALB` • `Auto Scaling` • `RDS`
+
+`ECR` • `ECS Fargate` • `CloudFront` • `CloudWatch`
+
+</div>
+
+---
+
+# 🔐 DevSecOps Workflow
 
 ```text
-Cloud
-├── AWS
-│   ├── EC2
-│   ├── VPC
-│   ├── IAM
-│   ├── ALB
-│   ├── Auto Scaling
-│   ├── RDS
-│   ├── ECR
-│   ├── ECS Fargate
-│   └── CloudFront
-│
-DevOps
-├── Git & GitHub
-├── Jenkins
-├── Docker
-├── Kubernetes
-├── CI/CD
-└── Terraform
-│
-DevSecOps
-├── SonarQube
-├── Trivy
-└── Secure CI/CD
-│
-Monitoring
-├── Prometheus
-└── Grafana
+        SOURCE CODE
+            │
+            ▼
+       ┌─────────┐
+       │ GitHub  │
+       └────┬────┘
+            ▼
+       ┌─────────┐
+       │ Jenkins │
+       └────┬────┘
+            ▼
+       ┌─────────┐
+       │  Tests  │
+       └────┬────┘
+            ▼
+      ┌────────────┐
+      │ SonarQube  │
+      └─────┬──────┘
+            ▼
+      ┌────────────┐
+      │   Docker   │
+      └─────┬──────┘
+            ▼
+      ┌────────────┐
+      │   Trivy    │
+      └─────┬──────┘
+            ▼
+      ┌────────────┐
+      │    ECR     │
+      └─────┬──────┘
+            ▼
+      ┌────────────┐
+      │ ECS Fargate│
+      └─────┬──────┘
+            ▼
+           ALB
+            │
+            ▼
+       APPLICATION
 ```
 
 ---
 
-# 📈 What I'm Learning
+# 📚 Currently Learning
 
-* ☁️ Advanced AWS
 * ☸️ Kubernetes
-* 🔄 CI/CD & GitOps
-* 🔐 DevSecOps
-* 🏗️ Infrastructure as Code
-* 📊 Cloud Monitoring
-* 🚀 Container Orchestration
-* 🤖 DevOps Automation
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/nidhi-kumari-clouddevops">
-<img src="https://img.shields.io/badge/LinkedIn-Nidhi%20Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Nidhi8901">
-<img src="https://img.shields.io/badge/GitHub-Nidhi8901-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://nidhikumari-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</p>
+* 🔄 Advanced CI/CD
+* 🔐 DevSecOps & Security Automation
+* ☁️ AWS Cloud
+* 🏗️ Terraform & Infrastructure as Code
+* 🚀 GitOps & Deployment Automation
+* 📊 Cloud & Application Monitoring
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nidhi8901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nidhi8901&show_icons=true&theme=tokyonight&hide_border=true" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi8901&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
+</div>
 
 ---
 
-# 🔥 GitHub Contribution Streak
+# 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=Nidhi8901&theme=tokyonight&hide_border=true" />
-</p>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nidhi8901&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nidhi8901&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+
+</div>
 
 ---
 
-# ✍️ DevOps Mindset
+# 🌐 Let's Connect
 
-> **Learn. Build. Automate. Secure. Improve.**
+<div align="center">
 
-I believe the best way to learn DevOps is by **building real projects, automating repetitive work, understanding the infrastructure behind applications, and continuously improving deployment and security practices.**
+<a href="https://www.linkedin.com/in/nidhi-kumari-clouddevops">
+<img src="https://img.shields.io/badge/LinkedIn-Nidhi%20Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://nidhikumari-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-nidhikumari--portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/Nidhi8901">
+<img src="https://img.shields.io/badge/GitHub-Nidhi8901-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 🚀 Building • Automating • Securing • Learning
+### 💻 Code. Automate. Deploy. Secure.
 
-**Thanks for visiting my profile!**
+**🚀 Building my DevOps journey one project at a time.**
 
-</p>
+</div>
